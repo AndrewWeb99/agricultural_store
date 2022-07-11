@@ -1,0 +1,9 @@
+textarea, input[type=text], select, input[type=file], input[type=num] {
+  width:100%;
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border:0;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+ 
+}
